@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0066-plus-one) |
 ## Two Pointers
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
