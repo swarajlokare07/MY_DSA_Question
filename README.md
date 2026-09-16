@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0039-combination-sum) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
