@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/swarajlokare07/MY_DSA_Question/tree/master/0290-word-pattern) |
